@@ -13,7 +13,7 @@
 * Python
 * Backend Development
 * REST APIs
-* SQL / SQLite / MySQL
+* SQL / MySQL / SQLite
 * Web Scraping & Automation
 
 ## 📌 Featured Projects
