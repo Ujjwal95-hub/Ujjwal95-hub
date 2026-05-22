@@ -36,7 +36,7 @@ Pandas • NumPy • Selenium • Git • GitHub • Render • Netlify
 
 ### Databases
 
-SQLite • MySQL
+MySQL • SQLite
 
 ## 📫 Connect With Me
 
