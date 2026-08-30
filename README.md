@@ -13,7 +13,7 @@
 * Python
 * Backend Development
 * REST APIs
-* SQL / MySQL / SQLite
+* SQL / MySQL / SQLite / PostgreSQL
 * Web Scraping & Automation
 
 ## 📌 Featured Projects
@@ -36,7 +36,7 @@ Pandas • NumPy • Selenium • Git • GitHub • Render • Netlify
 
 ### Databases
 
-MySQL • SQLite
+MySQL • SQLite • PostgreSQL
 
 ## 📫 Connect With Me
 
